@@ -1,0 +1,185 @@
+[
+  {
+    "name": "Glow Skincare",
+    "address": "Str. 45/2, Skopje Skopje MK, 1000",
+    "delivery_charge": 2.5,
+    "imageName": "glow_skincare",
+    "hours": {
+      "Sunday": "7:00 AM - 1:00 AM",
+      "Monday": "7:00 AM - 12:00 AM",
+      "Tuesday": "7:00 AM - 12:00 AM",
+      "Wednesday": "7:00 AM - 12:00 AM",
+      "Thursday": "7:00 AM - 12:00 AM",
+      "Friday": "7:00 AM - 12:00 AM",
+      "Saturday": "7:00 AM - 1:00 AM"
+    },
+    "menus": [
+      {
+        "name": "Hydrating Facial Cleanser",
+        "price": 15.00,
+        "imageName": "hydrating_facial_cleanser",
+        "description": "The Hydrating Facial Cleanser is designed to gently cleanse and refresh your skin while providing essential hydration. This cleanser removes dirt, oil, and makeup without stripping the skin of its natural moisture.\n\nHow to Use: Apply a small amount of the cleanser to your damp face and neck. Gently massage the product into your skin using circular motions, focusing on areas with makeup or impurities. Rinse thoroughly with warm water and pat dry with a clean towel. For best results, use this cleanser both in the morning and at night.\n\nBenefits: This product is packed with hydrating ingredients that help to maintain your skin's moisture balance. Regular use leaves your skin feeling soft, smooth, and refreshed, reducing the appearance of dryness and fine lines. It's suitable for all skin types and particularly beneficial for those with dry or sensitive skin."
+
+      },
+
+      {
+        "name": "Nourishing Night Cream",
+        "price": 25.00,
+        "imageName": "nourishing_night_cream",
+        "description": "The Nourishing Night Cream works overnight to deeply moisturize and repair your skin. Infused with a blend of vitamins, antioxidants, and natural extracts, this cream helps to rejuvenate your skin while you sleep, reducing the appearance of fine lines and wrinkles.\n\nHow to Use: After cleansing your face in the evening, apply a generous amount of the night cream to your face and neck. Gently massage the cream into your skin using upward circular motions until fully absorbed. For best results, use this cream every night as part of your bedtime skincare routine.\n\nBenefits: This night cream provides intense hydration, restoring moisture and suppleness to your skin. It helps to even out skin tone and improve texture, leaving your skin feeling soft, smooth, and revitalized by morning. Suitable for all skin types, especially beneficial for dry or mature skin."
+      },
+
+      {
+        "name": "Anti-Aging Serum",
+        "price": 35.00,
+        "imageName": "anti_aging_serum",
+        "description": "The Anti-Aging Serum is a powerful formula designed to combat the signs of aging. Rich in antioxidants, peptides, and nourishing ingredients, this serum helps to reduce the appearance of fine lines, wrinkles, and other signs of aging, leaving your skin looking youthful and radiant.\n\nHow to Use: After cleansing and toning your face, apply a small amount of the serum to your face and neck. Gently pat the serum into your skin using your fingertips until fully absorbed. Follow up with your favorite moisturizer for optimal results. Use this serum both morning and night for best results.\n\nBenefits: This serum provides a concentrated dose of active ingredients that work to rejuvenate your skin. It helps to firm and lift the skin, improving its elasticity and reducing the visibility of fine lines and wrinkles. The serum also promotes an even skin tone and a smoother texture, giving you a youthful glow. Suitable for all skin types, especially those concerned with aging."
+      },
+      {
+        "name": "Refreshing Face Mask",
+        "price": 12.00,
+        "imageName": "refreshing_face_mask",
+        "description": "The Refreshing Face Mask is your go-to treatment for an instant boost of hydration and revitalization. Enriched with natural extracts and hydrating ingredients, this mask cools and soothes your skin, leaving it feeling fresh and rejuvenated.\n\nHow to Use: Apply an even layer of the face mask to clean, dry skin, avoiding the eye and lip areas. Leave the mask on for 10-15 minutes, allowing the nutrients to deeply penetrate your skin. Rinse off with lukewarm water and gently pat your skin dry with a towel. For best results, use this mask 1-2 times per week as part of your skincare routine.\n\nBenefits: This face mask is designed to hydrate, soothe, and refresh tired and dull-looking skin. It helps to reduce redness and irritation, leaving your complexion bright and even-toned. Ideal for all skin types, it’s especially beneficial after exposure to sun or harsh environmental conditions."
+      }
+    ]
+  },
+
+  {
+    "name": "Radiance Skincare",
+    "address": "Boris Trajkovski 5, Skopje, Macedonia",
+    "delivery_charge": 2.0,
+    "imageName": "radiance_skincare",
+
+    "hours": {
+      "Sunday": "7:00 AM - 1:00 AM",
+      "Monday": "7:00 AM - 12:00 AM",
+      "Tuesday": "7:00 AM - 12:00 AM",
+      "Wednesday": "7:00 AM - 12:00 AM",
+      "Thursday": "7:00 AM - 12:00 AM",
+      "Friday": "7:00 AM - 12:00 AM",
+      "Saturday": "7:00 AM - 1:00 AM"
+    },
+    "menus": [
+      {
+        "name": "Revitalizing Face Cleanser",
+        "price": 18.00,
+        "imageName": "revitalizing_face_cleanser",
+        "description": "The Revitalizing Face Cleanser is a powerful yet gentle formula designed to deeply cleanse your skin while revitalizing your complexion. Packed with antioxidants and nourishing ingredients, this cleanser removes impurities, excess oil, and makeup, leaving your skin feeling fresh, clean, and energized.\n\nHow to Use: Wet your face with lukewarm water. Apply a small amount of the cleanser to your face and neck, massaging it gently into your skin in circular motions. Focus on areas prone to oil and dirt buildup. Rinse thoroughly with warm water and pat your face dry with a soft towel. For best results, use this cleanser morning and night.\n\nBenefits: This face cleanser effectively purifies your skin without stripping it of essential moisture. It revitalizes dull, tired-looking skin, giving you a radiant and youthful complexion. Suitable for all skin types, it’s especially beneficial for those with oily or combination skin."
+      },
+
+      {
+        "name": "Brightening Day Cream",
+        "price": 30.00,
+        "imageName": "brightening_day_cream",
+        "description": "The Brightening Day Cream is formulated to give your skin a radiant glow while providing essential hydration throughout the day. Enriched with vitamin C and other brightening agents, this cream helps to even out skin tone, reduce dark spots, and enhance your skin's natural luminosity.\n\nHow to Use: After cleansing your face in the morning, apply a small amount of the day cream to your face and neck. Gently massage the cream into your skin using upward circular motions until fully absorbed. For best results, use this cream daily as part of your morning skincare routine.\n\nBenefits: This day cream provides long-lasting moisture and protection against environmental stressors. It helps to brighten and even out your complexion, reducing the appearance of dark spots and dullness. With regular use, your skin will look more radiant, smooth, and youthful. Suitable for all skin types."
+      },
+
+      {
+        "name": "Youthful Glow Serum",
+        "price": 40.00,
+        "imageName": "youthful_glow_serum",
+        "description": "The Youthful Glow Serum is a luxurious, potent formula designed to restore your skin's natural radiance and youthful appearance. Infused with powerful antioxidants, vitamins, and peptides, this serum targets fine lines, wrinkles, and dullness, leaving your skin looking bright, smooth, and rejuvenated.\n\nHow to Use: After cleansing and toning your face, apply a few drops of the serum to your face and neck. Gently press the serum into your skin with your fingertips, allowing it to absorb fully. For best results, follow with your favorite moisturizer and use this serum twice daily, in the morning and at night.\n\nBenefits: This serum delivers a concentrated dose of ingredients that help to boost collagen production, improve skin elasticity, and enhance your skin's overall texture and tone. With regular use, your skin will appear more youthful, glowing, and firm. Suitable for all skin types, it’s particularly beneficial for mature skin or anyone looking to maintain a youthful complexion."
+      },
+
+      {
+        "name": "Soothing Eye Cream",
+        "price": 22.00,
+        "imageName": "soothing_eye_cream",
+        "description": "The Soothing Eye Cream is specially formulated to hydrate and calm the delicate skin around your eyes. Infused with cooling and nourishing ingredients, this eye cream helps to reduce puffiness, dark circles, and the appearance of fine lines, leaving your eyes looking refreshed and rejuvenated.\n\nHow to Use: Gently apply a small amount of the eye cream to your under-eye area and eyelids, using your ring finger to tap the product into your skin. Avoid direct contact with your eyes. Use this cream morning and night as part of your daily skincare routine.\n\nBenefits: This eye cream provides intense hydration and soothing relief to tired eyes. It helps to diminish the signs of aging, such as fine lines and wrinkles, while reducing puffiness and dark circles. The lightweight formula absorbs quickly, making it perfect for use under makeup. Suitable for all skin types, including sensitive skin."
+      }
+    ]
+  },
+
+  {
+    "name": "Pure Skincare",
+    "address": "Macedonia Street 23, Bitola, Macedonia",
+    "delivery_charge": 3.0,
+    "imageName": "pure_skincare",
+
+
+    "hours": {
+      "Sunday": "7:00 AM - 1:00 AM",
+      "Monday": "7:00 AM - 12:00 AM",
+      "Tuesday": "7:00 AM - 12:00 AM",
+      "Wednesday": "7:00 AM - 12:00 AM",
+      "Thursday": "7:00 AM - 12:00 AM",
+      "Friday": "7:00 AM - 12:00 AM",
+      "Saturday": "7:00 AM - 1:00 AM"
+    },
+    "menus": [
+      {
+        "name": "Purifying Gel Cleanser",
+        "price": 20.00,
+        "imageName": "purifying_gel_cleanser",
+        "description": "The Purifying Gel Cleanser is a refreshing formula designed to deeply cleanse your skin, removing impurities, excess oil, and makeup without stripping your skin's natural moisture. Enriched with soothing botanicals and antioxidants, this cleanser helps to balance and purify your complexion, leaving your skin feeling clean, refreshed, and invigorated.\n\nHow to Use: Wet your face with lukewarm water. Apply a small amount of the gel cleanser to your hands and work it into a lather. Gently massage the cleanser into your skin in circular motions, focusing on areas prone to oil and impurities. Rinse thoroughly with warm water and pat your face dry with a clean towel. For best results, use this cleanser both morning and night.\n\nBenefits: This gel cleanser provides a deep yet gentle cleanse, helping to prevent breakouts and reduce shine. It leaves your skin feeling smooth, clear, and revitalized. Suitable for all skin types, especially for those with oily or combination skin."
+      },
+
+      {
+        "name": "Hydrating Moisturizer",
+        "price": 25.00,
+        "imageName": "hydrating_moisturizer",
+        "description": "The Hydrating Moisturizer is a rich, nourishing cream designed to provide long-lasting hydration and improve your skin's moisture barrier. Packed with hydrating ingredients like hyaluronic acid and glycerin, this moisturizer helps to lock in moisture, leaving your skin feeling soft, smooth, and plump.\n\nHow to Use: After cleansing and toning your face, apply a generous amount of the moisturizer to your face and neck. Gently massage the cream into your skin using upward circular motions until fully absorbed. Use this moisturizer daily, both in the morning and at night, for best results.\n\nBenefits: This moisturizer delivers intense hydration, helping to reduce the appearance of dryness and flakiness. It strengthens the skin's natural moisture barrier, providing protection against environmental stressors. Suitable for all skin types, especially for dry and sensitive skin, this moisturizer leaves your skin looking radiant, healthy, and well-nourished."
+      },
+
+      {
+        "name": "Rejuvenating Facial Oil",
+        "price": 30.00,
+        "imageName": "rejuvenating_facial_oil",
+        "description": "The Rejuvenating Facial Oil is a luxurious blend of nourishing oils designed to restore your skin's natural glow and vitality. Rich in essential fatty acids, antioxidants, and vitamins, this facial oil deeply hydrates, softens, and revitalizes the skin, leaving it looking radiant and youthful.\n\nHow to Use: After cleansing and toning your face, warm a few drops of the facial oil between your palms. Gently press the oil into your skin, focusing on dry or dull areas. For best results, use this oil both morning and night, either on its own or as the final step in your skincare routine to lock in moisture.\n\nBenefits: This facial oil helps to improve the skin's elasticity and firmness, reducing the appearance of fine lines and wrinkles. It provides deep hydration and nourishment, promoting a healthy, luminous complexion. Suitable for all skin types, especially for those with dry or mature skin, this oil leaves your skin feeling soft, smooth, and rejuvenated."
+      },
+      {
+        "name": "Brightening Vitamin C Serum",
+        "price": 35.00,
+        "imageName": "brightening_vitaminc_serum",
+        "description": "The Brightening Vitamin C Serum is a powerful antioxidant-rich formula designed to brighten your complexion and reduce the appearance of dark spots and hyperpigmentation. Infused with a high concentration of vitamin C, this serum helps to even out skin tone, boost radiance, and protect your skin from environmental damage.\n\nHow to Use: After cleansing and toning your face, apply a few drops of the serum to your face and neck. Gently pat the serum into your skin with your fingertips, allowing it to absorb fully. For best results, use this serum in the morning before applying sunscreen and your favorite moisturizer.\n\nBenefits: This vitamin C serum works to brighten and even out your skin tone, while also reducing the visibility of dark spots and signs of aging. It enhances your skin's natural radiance, leaving you with a luminous and youthful complexion. Suitable for all skin types, this serum is especially beneficial for those looking to address dullness and discoloration."
+      }
+
+    ]
+  },
+
+  {
+    "name": "Luminous Skincare",
+    "address": "Central Park 12, Ohrid, Macedonia",
+    "delivery_charge": 2.5,
+    "imageName": "luminous_skincare",
+
+    "hours": {
+      "Sunday": "7:00 AM - 1:00 AM",
+      "Monday": "7:00 AM - 12:00 AM",
+      "Tuesday": "7:00 AM - 12:00 AM",
+      "Wednesday": "7:00 AM - 12:00 AM",
+      "Thursday": "7:00 AM - 12:00 AM",
+      "Friday": "7:00 AM - 12:00 AM",
+      "Saturday": "7:00 AM - 1:00 AM"
+    },
+    "menus": [
+      {
+        "name": "Clarifying Face Wash",
+        "price": 19.00,
+        "imageName": "clarifying_face_wash",
+        "description": "The Clarifying Face Wash is a gentle yet effective cleanser designed to purify your skin by removing impurities, excess oil, and makeup. Formulated with natural exfoliants and soothing ingredients, this face wash helps to unclog pores, reduce breakouts, and leave your skin feeling refreshed and clean.\n\nHow to Use: Wet your face with lukewarm water. Apply a small amount of the face wash to your hands and work it into a lather. Gently massage the cleanser onto your face in circular motions, focusing on the T-zone and areas prone to oiliness. Rinse thoroughly with warm water and pat your face dry with a clean towel. Use this face wash both morning and night for best results.\n\nBenefits: This face wash helps to maintain a clear and balanced complexion by controlling excess oil and preventing breakouts. It leaves your skin feeling smooth, refreshed, and free of impurities. Suitable for all skin types, especially for those with oily or acne-prone skin."
+      },
+
+      {
+        "name": "Moisture Boost Cream",
+        "price": 26.00,
+        "imageName": "moisture_boost_cream",
+        "description": "The Moisture Boost Cream is a deeply hydrating moisturizer designed to replenish your skin's moisture levels and improve its overall texture. Enriched with hyaluronic acid and other nourishing ingredients, this cream provides long-lasting hydration, leaving your skin feeling soft, supple, and plump.\n\nHow to Use: After cleansing and toning your face, apply a generous amount of the cream to your face and neck. Gently massage it into your skin using upward circular motions until fully absorbed. Use this cream daily, both in the morning and at night, to maintain optimal hydration.\n\nBenefits: This cream delivers intense moisture, helping to alleviate dryness and flakiness. It strengthens your skin's natural barrier, protecting it from environmental stressors while promoting a healthy, radiant complexion. Suitable for all skin types, especially for those with dry or dehydrated skin."
+      },
+
+      {
+        "name": "Advanced Repair Serum",
+        "price": 33.00,
+        "imageName": "advanced_repair_serum",
+        "description": "The Advanced Repair Serum is a potent treatment designed to target and repair the visible signs of aging. Formulated with a blend of powerful antioxidants, peptides, and hydrating ingredients, this serum works to reduce the appearance of fine lines, wrinkles, and uneven skin tone while promoting a smoother, firmer complexion.\n\nHow to Use: After cleansing and toning your face, apply a few drops of the serum to your face and neck. Gently press the serum into your skin with your fingertips, allowing it to absorb fully. Follow with your favorite moisturizer. For best results, use this serum both morning and night as part of your daily skincare routine.\n\nBenefits: This serum provides advanced skin repair by stimulating collagen production and improving skin elasticity. It helps to diminish the signs of aging and restores your skin's natural radiance. Suitable for all skin types, especially for those concerned with aging or environmental damage."
+      },
+
+      {
+        "name": "Detoxifying Charcoal Mask",
+        "price": 15.00,
+        "imageName": "detoxifying_charcoal_mask",
+        "description": "The Detoxifying Charcoal Mask is a powerful treatment that draws out impurities, toxins, and excess oil from your skin, leaving it feeling clean, refreshed, and revitalized. Formulated with activated charcoal and natural clays, this mask works to unclog pores and reduce the appearance of blemishes, giving you a clearer and smoother complexion.\n\nHow to Use: Apply an even layer of the mask to clean, dry skin, avoiding the eye and lip areas. Leave the mask on for 10-15 minutes until it dries completely. Rinse off with lukewarm water, using gentle circular motions to exfoliate your skin. Pat your face dry with a clean towel. For best results, use this mask 1-2 times per week.\n\nBenefits: This charcoal mask deeply cleanses and detoxifies the skin, helping to remove impurities and prevent breakouts. It also helps to reduce the appearance of pores and leave the skin looking brighter and more even-toned. Suitable for all skin types, particularly for those with oily or acne-prone skin."
+      }
+    ]
+  }
+]

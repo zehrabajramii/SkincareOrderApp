@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Deklaron që ky është një skedar XML dhe përcakton versionin dhe kodimin e karaktereve të përdorura. -->
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mk.skincareorder">
+    <!-- Elementi kryesor i skedarit manifest. 'xmlns:android' përcakton hapësirën XML të emrit për elementet Android.
+         Atributi 'package' përcakton emrin unik të paketës së aplikacionit tuaj. -->
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SkincareOrder">
+        <!-- Elementi <application> përmban atribute që ndikojnë në të gjithë aplikacionin dhe
+             deklaron të gjithë komponentët e tij, si aktivitete dhe shërbime.
+
+             - 'android:allowBackup' lejon që të dhënat e aplikacionit të bëhen backup dhe të rikthehen.
+             - 'android:icon' specifikon ikonën e aplikacionit.
+             - 'android:label' specifikon emrin e aplikacionit (nga burimet e resurseve).
+             - 'android:roundIcon' specifikon ikonën e përdorur për ekranet me forma rrethore.
+             - 'android:supportsRtl' tregon që aplikacioni mbështet paraqitjen nga e djathta në të majtë.
+             - 'android:theme' specifikon temën e paracaktuar për aplikacionin. -->
+
+        <activity
+            android:name=".orderSucceeeded"
+            android:exported="false" />
+        <!-- Deklaron një aktivitet të quajtur 'orderSucceeeded'.
+             - 'android:name' tregon emrin e klasës për këtë aktivitet.
+             - 'android:exported' kur është vendosur në 'false' do të thotë që ky aktivitet nuk mund të
+               lëshohet nga komponentët e aplikacioneve të tjera. -->
+
+        <activity
+            android:name=".PlaceOrder"
+            android:exported="false" />
+        <!-- Deklaron një aktivitet të quajtur 'PlaceOrder'.
+             - I njëjti parim si më sipër, ky aktivitet është i izoluar brenda aplikacionit tuaj. -->
+
+        <activity
+            android:name=".SkincareMenu"
+            android:exported="false" />
+        <!-- Deklaron një aktivitet të quajtur 'SkincareMenu'.
+             - Ky aktivitet gjithashtu nuk mund të aksesohet nga jashtë aplikacionit tuaj. -->
+
+        <!-- Regjistroni ShowDetailsActivity -->
+        <activity
+            android:name=".ShowDetailsActivity"
+            android:exported="false" />
+        <!-- Deklaron një aktivitet të quajtur 'ShowDetailsActivity'.
+             - Ky aktivitet përdoret për të shfaqur detajet e një produkti të zgjedhur.
+             - 'exported' është vendosur në 'false', duke e kufizuar qasjen e tij nga aplikacionet e tjera. -->
+
+        <!-- Regjistroni YourOrdersActivity -->
+        <activity
+            android:name=".YourOrdersActivity"
+            android:exported="false" />
+        <!-- Deklaron një aktivitet të quajtur 'YourOrdersActivity'.
+             - Ky aktivitet mund të shfaqë porositë e mëparshme të përdoruesit.
+             - 'exported' është vendosur në 'false'. -->
+
+        <!-- Regjistroni SignUpActivity -->
+        <activity
+            android:name=".SignUpActivity"
+            android:exported="true" />
+        <!-- Deklaron një aktivitet të quajtur 'SignUpActivity'.
+             - Ky aktivitet përdoret për regjistrimin e përdoruesit.
+             - 'exported' është vendosur në 'true', duke e bërë të aksesueshëm edhe nga aplikacionet e tjera. -->
+
+        <!-- Regjistroni LoginActivity -->
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true" />
+        <!-- Deklaron një aktivitet të quajtur 'LoginActivity'.
+             - Ky aktivitet menaxhon hyrjen e përdoruesit.
+             - 'exported' është vendosur në 'true', duke lejuar aksesin e tij nga aplikacione të tjera. -->
+
+        <!-- Regjistroni HomeActivity -->
+        <activity
+            android:name=".HomeActivity"
+            android:exported="true" />
+        <!-- Deklaron një aktivitet të quajtur 'HomeActivity'.
+             - Ky aktivitet mund të jetë ekrani kryesor pas hyrjes.
+             - 'exported' është vendosur në 'true'. -->
+
+        <!-- Regjistroni HomePageActivity -->
+        <activity
+            android:name=".HomePageActivity"
+            android:exported="true" />
+        <!-- Deklaron një aktivitet të quajtur 'HomePageActivity'.
+             - Ky aktivitet mund të jetë faqja kryesore e një veçorie të caktuar.
+             - 'exported' është vendosur në 'true'. -->
+
+        <!-- Regjistroni SkincareRoutineActivity -->
+        <activity
+            android:name=".SkincareRoutineActivity"
+            android:exported="true" />
+        <!-- Deklaron një aktivitet të quajtur 'SkincareRoutineActivity'.
+             - Ky aktivitet mund të ofrojë udhëzime për rutina të kujdesit për lëkurën.
+             - 'exported' është vendosur në 'true'. -->
+
+        <activity
+            android:name=".FirstActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- Deklaron një aktivitet të quajtur 'FirstActivity'.
+             - Ky aktivitet është pika kryesore e hyrjes kur aplikacioni nis.
+             - 'exported' është vendosur në 'true', që do të thotë se mund të aksesohet nga aplikacionet e tjera.
+             - <intent-filter> specifikon që ky aktivitet është pika kryesore e hyrjes (entry point).
+             - 'android.intent.action.MAIN' tregon që ky aktivitet është veprimi kryesor.
+             - 'android.intent.category.LAUNCHER' bën që ky aktivitet të shfaqet në lançues (launcher). -->
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+        <!-- Deklaron një aktivitet të quajtur 'MainActivity'.
+             - Ky është aktiviteti kryesor i cili menaxhon funksionalitetet themelore të aplikacionit.
+             - 'exported' është vendosur në 'true'. -->
+
+    </application>
+    <!-- Mbyll elementin <application>. -->
+
+</manifest>
+    <!-- Mbyll elementin <manifest>. -->
